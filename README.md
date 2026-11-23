@@ -51,6 +51,8 @@ The project explores:
 - Annual and Regional Revenue Analysis
 - Customer Type and Payment Method Analysis
 
+  [View Project Repository](https://github.com/Ope-Analyst/Sales-Performance-Analysis)
+
 **Tools:** Microsoft Excel, MySQL and Power BI.
 
 ## Areas of Interest
